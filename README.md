@@ -1,6 +1,5 @@
-###
-### @clopez7 
-###
-### 👨🏽‍💻 backend, web, linux, JS
-###
-### 📍barcelona 
+# @clopez7 
+
+### 👨🏽‍💻 Back-End Development, JavaScript, Linux
+
+### 📍 Barcelona 
