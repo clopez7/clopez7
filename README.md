@@ -1,2 +1,3 @@
-`@clopez7 backend developer`
-`Barcelona 📍`
+### @clopez7 
+## backend, web, linux, JS
+## barcelona 📍
