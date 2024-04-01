@@ -1,2 +1,2 @@
-### Hi, welcome to my Github Portfolio 👋🏼
-
+`@clopez7 backend developer`
+`Barcelona 📍`
