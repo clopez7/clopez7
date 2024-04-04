@@ -3,7 +3,7 @@
 **Dev in BCN**
 
 
-*JavaScript
-*Node.js
-*PHP
-*AWS
+* JavaScript
+ ** Node.js
+ ** PHP
+ ** AWS
