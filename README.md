@@ -2,7 +2,7 @@
 
 **Barcelona fullstack developer**
 
-Stacks  | 
+Stacks  | Technologies
 ------------- | -------------
 JavaScript | Node.js
 PHP | Java
