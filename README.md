@@ -1,13 +1,12 @@
-**Carlos //** ***webdev**
-**🌏👨🏽‍💻** 
+# 🌏👨🏽‍💻
+***clopez7 webdev**
 **Barcelona** 
 
-> Tech enthusiast, open source and Linux. Se
+> Tech enthusiast, open source and Linux.
 
-
-**Stack
-* JS
-* Node.js
-* PH
-* AWS
-* Postgres
+*Stacks
+   * JS
+   * Node.js
+   * PHP
+   * AWS
+   * PostgreSQL, MongoDB
