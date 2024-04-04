@@ -1,6 +1,6 @@
 <img src="cursor.gif" height="30" />
 
-**carlos lópez | junior backend dev**
+#### carlos lópez | junior backend dev
 
 **tech, coding, open-source, AI, Linux, blockchain enthuasiast**
 
