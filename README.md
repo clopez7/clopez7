@@ -1,4 +1,4 @@
-# Welcome to my GitHub! 👨🏽‍💻
+## Welcome to my GitHub! 👨🏽‍💻
 
 >  #### backend dev | barcelona 📍
 >  #### JS | PHP | AWS | GCP | PostgreSQL | MongoDB
