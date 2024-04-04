@@ -1,8 +1,4 @@
-**Carlos L. //** ***web dev*** **// 🌏👨🏽‍💻 //** **Barcelona 🇪🇦**
-
-
-**Stack**
-
+**Carlos L. //** ***web dev*** **// 🌏👨🏽‍💻 //** **Barcelona, Spain **
 * JS
 * Node.js
 * PHP
