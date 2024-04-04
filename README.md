@@ -1,6 +1,4 @@
-<img src="cursor.gif" height="30" />
-
-## carlos lópez | junior backend dev
+<img src="cursor.gif" height="30" /> ## carlos lópez | junior backend dev
 
 #### JS | PHP | AWS | GCP | PostgreSQL | MongoDB | Unix
 
