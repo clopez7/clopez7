@@ -1,8 +1,9 @@
 **@clopez7**
 
-**Barcelona fullstack developer**
+**Dev in BCN**
 
-Stacks  | Technologies
-------------- | -------------
-JavaScript | Node.js
-PHP | Java
+
+*JavaScript
+*Node.js
+*PHP
+*AWS
