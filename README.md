@@ -1,5 +1,5 @@
 **@clopez7**
-
+**Barcelona developer**
 
 Skills  | Languages
 ------------- | -------------
