@@ -1,6 +1,6 @@
-# welcome to my portfolio 👨🏽‍💻
+# Hi, there! 👨🏽‍💻
 
-Proactive and motivated backend developer.
+It's Carlos, a backend developer in Barcelona.
 
 * Stack
 > JS | PHP | AWS | GCP | PostgreSQL | MongoDB
