@@ -1,10 +1,11 @@
-**@clopez7**
+**carlos lópez**
 
-**Web Dev**
+***web dev***
+
 **💻👨🏽‍💻**
 
- * JS
- * Node.js
- * PHP
- * AWS
- * Postgres
+* JS
+* Node.js
+* PHP
+* AWS
+* Postgres
