@@ -1,4 +1,4 @@
-<img src="cursor.gif" height="15" />
+<img src="cursor.gif" height="30" />
 
 **carlos lópez | junior backend dev**
 
