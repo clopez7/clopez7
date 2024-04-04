@@ -1,3 +1,9 @@
 **@clopez7**
 
-**Backend web, Linux, SQL, System, Infraestructure**
+
+Skills  | Second Header
+------------- | -------------
+JavaScript | 
+Node.js |  \| 
+JavaScript |
+Node.js |
