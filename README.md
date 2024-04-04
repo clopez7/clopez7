@@ -1,6 +1,6 @@
 **@clopez7**
 
-**Dev in BCN**
+**Junior Web Dev 🌏**
 
 * Stack 
  * JS
