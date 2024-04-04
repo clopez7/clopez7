@@ -1,6 +1,6 @@
 > 'welcome to my github profile'
 
-`$ carlos lópez | junior backend dev | tech, open-source, AI, Linux enthuasiast'`
+> `$ carlos lópez | junior backend dev | tech, open-source, AI, Linux enthuasiast'`
 
 `$ JS | PHP | AWS | GCP | PostgreSQL | MongoDB | Unix'`
 
