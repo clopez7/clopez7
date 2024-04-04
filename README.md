@@ -1,6 +1,7 @@
 **@clopez7**
 
-**Junior Web Dev 🌏**
+**Web Dev**
+**💻👨🏽‍💻**
 
 * Stack 
  * JS
