@@ -1,6 +1,4 @@
-**🌏 [linkedin](https://www.linkedin.com/in/celopez12) | [personal](https://clopez7.github.io) | [gitlab](https://www.gitlab.com/clopez12)**
-
-<img src="cursor.gif" height="30" /> 
+<img src="cursor.gif" height="30" />  **🌏 [linkedin](https://www.linkedin.com/in/celopez12) | [personal](https://clopez7.github.io) | [gitlab](https://www.gitlab.com/clopez12)**
 
 #### $ Carlos López | Backend Developer | Barcelona
 
