@@ -1,12 +1,12 @@
 <img src="cursor.gif" height="30" />
 
-#### carlos lópez | junior backend dev
+## carlos lópez | junior backend dev
 
-**JS | PHP | AWS | GCP | PostgreSQL | MongoDB | Unix**
-
-**Tech, Coding, Open-source, AI, Linux, blockchain enthuasiast**
+#### JS | PHP | AWS | GCP | PostgreSQL | MongoDB | Unix
 
 I help build APIs, manage and design databases and deploy fast clean tested code while using Agile Methodologies such as Scrum.
+
+Tech, Coding, Open-source, AI, Linux, blockchain enthuasiast
 
 I'm an independent learner with communication and teamwork skills.
 ***
