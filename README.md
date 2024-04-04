@@ -14,4 +14,4 @@
 
 * I'm an independent learner with communication and teamwork skills.
 
-* Tech, SoftwareDevelopment, Open-source, AI, Linux, blockchain enthuasiast.
+* Tech, Software Development, Open-source, AI, Linux, blockchain enthuasiast.
