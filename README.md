@@ -1,4 +1,6 @@
-<img src="cursor.gif" height="30" /> #### Carlos López | Backend Developer | Barcelona
+<img src="cursor.gif" height="30" /> 
+
+#### Carlos López | Backend Developer | Barcelona
 
 #### JS | PHP | AWS | GCP | PostgreSQL | MongoDB | Unix
 
