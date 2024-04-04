@@ -3,7 +3,6 @@
 **Web Dev**
 **💻👨🏽‍💻**
 
-* Stack 
  * JS
  * Node.js
  * PHP
