@@ -1,9 +1,9 @@
 # 🌏👨🏽‍💻 @clopez7
-***backend dev**
+**backend dev**
 
 > Tech enthusiast, opensource, Linux, infraestructure, cleancode
 
-*Stacks
+* Stacks
    * JS
    * Node.js
    * PHP
