@@ -2,9 +2,9 @@
 
 #### Carlos López
 
-#### Backend Developer | Barcelona. Spain 
+#### Backend Developer | Barcelona
 
-> #### JS | PHP | AWS | GCP | PostgreSQL | MongoDB | Unix
+#### JS | PHP | AWS | GCP | PostgreSQL | MongoDB | Unix
 
 > I help build APIs, manage and design databases and deploy fast clean tested code while using Agile Methodologies such as Scrum.
 
