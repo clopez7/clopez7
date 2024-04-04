@@ -1,9 +1,7 @@
 **@clopez7**
 
 
-Skills  | Second Header
+Skills  | Languages
 ------------- | -------------
-JavaScript | 
-Node.js |  \| 
-JavaScript |
-Node.js |
+JavaScript | Node.js
+PHP | Java
