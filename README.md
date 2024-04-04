@@ -1,6 +1,7 @@
->  # Hi, there! 👨🏽‍💻
+# Hi, there! 👨🏽‍💻
+
 >
->  - Stack
+>  - Backend Dev
 >  - JS | PHP | AWS | GCP | PostgreSQL | MongoDB
 >
 
