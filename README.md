@@ -5,8 +5,4 @@ It's Carlos, a backend developer in Barcelona.
 * Stack
 > JS | PHP | AWS | GCP | PostgreSQL | MongoDB
 
-You can also checkout my other projects at Gitlab <link>www.gitlab.com/clopez12</link>
-
-
-[gitlab](www.gitlab.com/clopez12")
-[linkedin](https://www.linkedin.com/in/celopez12")
+[gitlab](www.gitlab.com/clopez12") [linkedin](https://www.linkedin.com/in/celopez12") [personal]("https://clopez7.github.io")
