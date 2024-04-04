@@ -1,4 +1,4 @@
-`$ echo 'welcome to my github profile 🤪'`
+<img src="" width="40" height="40" /> `$ welcome to my github profile`
 
 `$ carlos lópez | junior backend dev | tech, open-source, AI, Linux enthuasiast'`
 
