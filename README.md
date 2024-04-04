@@ -8,4 +8,5 @@ It's Carlos, a backend developer in Barcelona.
 You can also checkout my other projects at Gitlab <link>www.gitlab.com/clopez12</link>
 
 
-[Named Link](www.gitlab.com/clopez12 "Gitlab")
+[gitlab](www.gitlab.com/clopez12")
+[linkedin](https://www.linkedin.com/in/celopez12")
