@@ -1,6 +1,7 @@
-**carlos l. //** ***web dev*** **// 🌏👨🏽‍💻 //**
+**Carlos L. //** ***web dev*** **// 🌏👨🏽‍💻 //** **Spain**
 
-**stacks**
+
+**Stack**
 
 * JS
 * Node.js
