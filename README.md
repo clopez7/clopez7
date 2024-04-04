@@ -1,3 +1,3 @@
-# 🌏 👨🏽‍💻 welcome to my GitHub
+# 🌏 welcome 
 * Stack
-JS | PHP | AWS | GCP | PostgreSQL | MongoDB
+> JS | PHP | AWS | GCP | PostgreSQL | MongoDB
