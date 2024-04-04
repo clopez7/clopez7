@@ -1,4 +1,3 @@
-## 👋🏽 Hi, there! Welcome.
 #### 👨🏽‍💻 backend dev
 #### 📍 barcelona 
 #### ⌨️ JS | PHP | AWS | GCP | PostgreSQL | MongoDB
