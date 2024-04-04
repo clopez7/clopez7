@@ -1,4 +1,6 @@
-# hi 👨🏽‍💻
+# welcome to my portfolio 👨🏽‍💻
+
+Proactive and motivated backend developer.
 
 * Stack
 > JS | PHP | AWS | GCP | PostgreSQL | MongoDB
