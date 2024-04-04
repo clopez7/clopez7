@@ -1,8 +1,9 @@
-# 🌏👨🏽‍💻 backend dev
+# clopez7 👨🏽‍💻
+# backend dev | web
 
 > I enjoy coding, opensource, Linux, infraestructure, cleancode, blockchain
 
-* Stacks
+* Stack
    * JS
    * PHP
    * AWS
