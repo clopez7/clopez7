@@ -1,11 +1,11 @@
-# 🌏👨🏽‍💻
-**backend dev**
+# 🌏👨🏽‍💻 backend dev
 
-> Tech enthusiast, opensource, Linux, infraestructure, cleancode
+> I enjoy coding, opensource, Linux, infraestructure, cleancode, blockchain
 
 * Stacks
    * JS
-   * Node.js
    * PHP
    * AWS
-   * PostgreSQL, MongoDB
+   * PostgreSQL
+   * MongoDB
+   * React.js
