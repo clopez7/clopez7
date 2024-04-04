@@ -1,8 +1,7 @@
-# 🌏👨🏽‍💻
-***clopez7 webdev**
-**Barcelona** 
+# 🌏👨🏽‍💻 @clopez7
+***backend dev**
 
-> Tech enthusiast, open source and Linux.
+> Tech enthusiast, opensource, Linux, infraestructure, cleancode
 
 *Stacks
    * JS
