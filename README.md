@@ -1,4 +1,3 @@
-# 🌏👨🏽‍💻
-### backend dev
+# 🌏 👨🏽‍💻 welcome to my GitHub
 * Stack
-   * JS | PHP | AWS | GCP | PostgreSQL | MongoDB
+JS | PHP | AWS | GCP | PostgreSQL | MongoDB
