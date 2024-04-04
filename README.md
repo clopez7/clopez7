@@ -1,6 +1,6 @@
 <img src="cursor.gif" height="30" />
 
-## @clopez7 | backend dev | Barcelona, Spain
+#### @clopez7 | backend dev | barcelona, Spain
 
 #### JS | PHP | AWS | GCP | PostgreSQL | MongoDB | Unix
 
