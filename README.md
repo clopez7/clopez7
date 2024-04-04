@@ -1,4 +1,4 @@
-## Hi, there! 🤓
+# 👋🏽 Hi, there! 
 #### 👨🏽‍💻 webdev
 #### 📍 barcelona 
 #### ⌨️ Stack: JS | PHP | AWS | GCP | PostgreSQL | MongoDB
