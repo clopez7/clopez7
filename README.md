@@ -1,7 +1,7 @@
 # 👋🏽 Hi, there! 
-#### 👨🏽‍💻 webdev
+#### 👨🏽‍💻 backend dev
 #### 📍 barcelona 
-#### ⌨️ Stack: JS | PHP | AWS | GCP | PostgreSQL | MongoDB
+#### ⌨️ JS | PHP | AWS | GCP | PostgreSQL | MongoDB
 ***
-# 🌏 Links
+## 🌏 Links
 ### [gitlab](www.gitlab.com/clopez12) | [linkedin](https://www.linkedin.com/in/celopez12) | [personal](https://clopez7.github.io)
