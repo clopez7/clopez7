@@ -11,5 +11,5 @@ I'm an independent learner with communication and teamwork skills.
 Tech, Coding, Open-source, AI, Linux, blockchain enthuasiast.
 
 ***
-<p style="text-align: center;"> #### 🌏 [linkedin](https://www.linkedin.com/in/celopez12) | [personal](https://clopez7.github.io) | [gitlab](www.gitlab.com/clopez12) </p>
+####           🌏 [linkedin](https://www.linkedin.com/in/celopez12) | [personal](https://clopez7.github.io) | [gitlab](www.gitlab.com/clopez12) 
 
