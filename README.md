@@ -1,3 +1,3 @@
-** @clopez7 **
+**@clopez7**
 
-** Backend web, Linux, SQL, System, Infraestructure **
+**Backend web, Linux, SQL, System, Infraestructure**
