@@ -1,4 +1,4 @@
-# 🌏👨🏽‍💻 @clopez7
+# 🌏👨🏽‍💻
 **backend dev**
 
 > Tech enthusiast, opensource, Linux, infraestructure, cleancode
