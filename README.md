@@ -1,6 +1,6 @@
 <img src="cursor.gif" height="30" />
 
-#### arlos López
+#### Carlos López
 
 #### Backend Developer | Barcelona. Spain 
 
