@@ -1,6 +1,4 @@
-**carlos lópez**
-
-***web dev***
+**carlos lópez** ***web dev***
 
 **💻👨🏽‍💻**
 
