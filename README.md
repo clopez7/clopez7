@@ -2,8 +2,9 @@
 
 **Dev in BCN**
 
-
-* JavaScript
- ** Node.js
- ** PHP
- ** AWS
+* Stack 
+ * JS
+ * Node.js
+ * PHP
+ * AWS
+ * Postgres
