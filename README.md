@@ -1,7 +1,7 @@
 **@clopez7**
-**Barcelona developer**
+**Barcelona fullstack developer**
 
-Skills  | Languages
+Stacks  | 
 ------------- | -------------
 JavaScript | Node.js
 PHP | Java
