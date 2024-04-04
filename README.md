@@ -1,4 +1,4 @@
-<img src="cursor.gif" width="40" height="40" /> `$ welcome to my github profile`
+<img src="cursor.gif" height="20" /> `$ welcome to my github profile`
 
 `$ carlos lópez | junior backend dev | tech, open-source, AI, Linux enthuasiast'`
 
