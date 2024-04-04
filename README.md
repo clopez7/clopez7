@@ -1,4 +1,4 @@
-<img src="cursor.gif" height="15" /> **echo "welcome to my profile"
+<img src="cursor.gif" height="15" /> **echo "welcome to my profile"**
 
 `$ carlos lópez | junior backend dev | tech, open-source, AI, Linux enthuasiast'`
 
