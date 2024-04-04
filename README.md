@@ -1,8 +1,8 @@
 <img src="cursor.gif" height="30" />
 
-#### @clopez7
+#### arlos López
 
-#### backend developer | barcelona 
+#### Backend Developer | Barcelona. Spain 
 
 #### JS | PHP | AWS | GCP | PostgreSQL | MongoDB | Unix
 
@@ -12,4 +12,4 @@ I'm an independent learner with communication and teamwork skills.
 
 Tech, Coding, Open-source, AI, Linux, blockchain enthuasiast.
 
-🌏 [linkedin](https://www.linkedin.com/in/celopez12) | [personal](https://clopez7.github.io) | [gitlab]([www.gitlab.com/clopez12) 
+#### 🌏 [linkedin](https://www.linkedin.com/in/celopez12) | [personal](https://clopez7.github.io) | [gitlab](https//:www.gitlab.com/clopez12) 
